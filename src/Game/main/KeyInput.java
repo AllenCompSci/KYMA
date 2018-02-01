@@ -47,8 +47,6 @@ public class KeyInput extends KeyAdapter{
 		
 	}
 	
-	public void set
-	
 	public void keyReleased(KeyEvent e){
 		int key = e.getKeyCode();
 		
